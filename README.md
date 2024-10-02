@@ -1,1 +1,1 @@
-# La-os-JS
+# Lacos-JS
